@@ -1,0 +1,11 @@
+Desktop Organizer
+
+//TODO:
+[OK] Parent folders kai subfolders gia filtra
+[OK] multiple extensions on same folder
+
+PARENT	//relative path
+Multiple preset paths or adjustable/mappable.
+
+Add Wildcard!
+
